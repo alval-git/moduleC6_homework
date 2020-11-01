@@ -1,0 +1,15 @@
+
+.images{
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+.photo{
+	width: 100px;
+	height: 100px;
+	padding: 1em;
+}
+
+.second-svg{
+	display: none;
+}
